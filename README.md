@@ -1,4 +1,14 @@
-## Hi there 👋
+# Olá! Eu sou Rafael Gonzaga 👋
+
+- 🔧 Atualmente trabalho na **Liebherr Brasil** na área de caldeiraria e solda, onde atuo desde agosto de 2021.
+- 🚀 Focado em aprender **HTML, CSS e JavaScript**, explorando o desenvolvimento de jogos e web.
+- 💡 Estudante constante de programação, também com interesse em **Lean** e **ergonomia** no ambiente de trabalho.
+- 💻 Estou desenvolvendo projetos pessoais, como uma roleta de RPG e criando um **backlog de jogos** para acompanhar meu progresso.
+- 📚 Em paralelo, estou me dedicando a melhorar meu **inglês** e sempre buscando novos conhecimentos na área de tecnologia.
+- 🛠️ Habilidades: Solda, Caldeiraria, HTML, CSS, JavaScript, Lean.
+
+Vamos colaborar e aprender juntos!
+
 
 <!--
 **Loogan/Loogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
